@@ -4,7 +4,7 @@ library(readr)
 library(sound)
 
 # Define a directory where you audio files are (expects .wav files)
-sound_directory <- '/media/joebrew/bigusb/hyfecloud/user/00KpjSVU3ISJHynhXQ4ugNc0yhh2/'
+sound_directory <- '~/Desktop/sounds'
 
 # Define a directory to save results in
 results_directory <- '~/Desktop/results'
